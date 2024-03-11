@@ -9,3 +9,6 @@ For linux, to create the env. please do the following:
 ```conda create --name <environment name> --file requirements.txt```
 
 The environment was created on a win-64, but since the libraries used are commonplace, it should also be compatible with linux 22-04
+
+
+Nonethelesss, for some reason, uknown, I cannot get this to succesfully run on windows. Furhter evaluation will be made later. For now I will accept defeat and only work on linux instead...
