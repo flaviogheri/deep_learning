@@ -1,0 +1,4 @@
+/runs
+/mnist1d
+/data
+*.out.tfevents.*
