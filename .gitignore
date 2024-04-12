@@ -2,3 +2,5 @@
 /mnist1d
 /data
 *.out.tfevents.*
+/CNN_malware_classification
+/project
